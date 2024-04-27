@@ -1,0 +1,12 @@
+alga,water,wets the target,20,0,4
+mool,earth,summons a dust cloud,10,10,4
+vim,lightning,a strike of lightning pierces its target,25,0,5
+fah,fire,flame breath with lingering 5+ damage, 15,0,4
+leam,wind, wind blade that blows away defense -1 defense to target,3,0,3
+wezom,lightning,come forth... THUNDERSTORM +5 lingering dmg,45,0,8 
+basic fire,fire,fire ball!,5,0,1
+basic water,water,splash,3,5,1
+basic wind,wind,air slash, 5,0,1
+basic earth,earth,earth throw,5,0,1
+velo,water,Shrouds user in a veil of water. They say this spell contains healing properties...,0,15,5
+shu,dark,An attack from the shadows!,15,0,3
